@@ -32,7 +32,7 @@ const MapComponent = () => {
                     .then(() => {
                         console.log('L.Routing' + L.Routing)
                         mapRef.current = L.map('map', {
-                            center: [35.791188, -78.636755],
+                            center: [40.689453, -74.021223],
                             zoom: 12,
                             layers: window.MQ.mapLayer()
                         });
