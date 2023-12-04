@@ -10,6 +10,7 @@ and then
 
 Input the start location and the end location  
 (example: New York -> New Jersey)
+Press enter key
 
 ![image](https://github.com/SenhuiZhao/travel-map/assets/86563639/50314d63-c73e-4bbd-aa04-c5e94b67e463)
 
